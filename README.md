@@ -1,2 +1,2 @@
 # TimSch1.github.io
-New Repo
+## Exploring science, government, and society through visualizations and Data Science.
